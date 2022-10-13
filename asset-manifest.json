@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dzOne/static/css/main.69132732.css",
+    "main.js": "/dzOne/static/js/main.b1c511a6.js",
+    "static/js/787.66cb4309.chunk.js": "/dzOne/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/dzOne/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/dzOne/index.html",
+    "main.69132732.css.map": "/dzOne/static/css/main.69132732.css.map",
+    "main.b1c511a6.js.map": "/dzOne/static/js/main.b1c511a6.js.map",
+    "787.66cb4309.chunk.js.map": "/dzOne/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69132732.css",
+    "static/js/main.b1c511a6.js"
+  ]
+}
